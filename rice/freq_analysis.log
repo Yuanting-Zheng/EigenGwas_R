@@ -1,0 +1,22 @@
+PLINK v1.90b6.4 64-bit (7 Aug 2018)
+Options in effect:
+  --bfile 404
+  --freq
+  --out freq_analysis
+
+Hostname: Will-2.local
+Working directory: /Users/mac/Desktop/EigenGwas_R/rice
+Start time: Thu Dec 13 18:13:11 2018
+
+Random number seed: 1544695991
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+404388 variants loaded from .bim file.
+3024 people (0 males, 0 females, 3024 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to freq_analysis.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 3024 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.955783.
+--freq: Allele frequencies (founders only) written to freq_analysis.frq .
+
+End time: Thu Dec 13 18:13:11 2018

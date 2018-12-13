@@ -1,0 +1,26 @@
+PLINK v1.90b6.4 64-bit (7 Aug 2018)
+Options in effect:
+  --allow-extra-chr
+  --bfile 404
+  --out pca
+  --pca 5
+
+Hostname: Will-2.local
+Working directory: /Users/mac/Desktop/EigenGwas_R/rice
+Start time: Thu Dec 13 18:19:24 2018
+
+Random number seed: 1544696364
+16384 MB RAM detected; reserving 8192 MB for main workspace.
+404388 variants loaded from .bim file.
+3024 people (0 males, 0 females, 3024 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to pca.nosex .
+Using up to 4 threads (change this with --threads).
+Before main variant filters, 3024 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.955783.
+404388 variants and 3024 people pass filters and QC.
+Note: No phenotypes present.
+Relationship matrix calculation complete.
+--pca: Results saved to pca.eigenval and pca.eigenvec .
+
+End time: Thu Dec 13 18:22:03 2018
