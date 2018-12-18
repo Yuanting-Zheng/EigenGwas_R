@@ -1,2 +1,2 @@
-hehe
-haha
+Draft EigenGwas
+many example for EigenGWAS
